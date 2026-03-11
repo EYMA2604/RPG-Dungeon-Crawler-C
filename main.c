@@ -1,10 +1,3 @@
-/*************
- *EYAL MALCI*
- *212735583*
- *EX6
- ************/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "game.h"
@@ -35,3 +28,4 @@ int main(int argc, char* argv[]) {
     freeGame(&game);
     return 0;
 }
+
